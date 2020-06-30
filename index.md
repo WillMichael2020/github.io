@@ -9,3 +9,8 @@ Forrest Gump ist ein etwas einfacher, zum Teil einfätiger Mensch, dem es aber i
 * aufopferungsvoll
 * zärtlich
 
+Forrest Gump sagte:
+
+> Nachts ist es
+> dunkler als draussen!
+ 
